@@ -1,0 +1,19 @@
+[
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Bundle files/AppDelegate.swift",
+  "offset": 1236,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Bundle files/AppDelegate.swift",
+  "offset": 1310,
+  "remove": 8,
+  "text": "UIApplicationLaunchOptionsKey",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Bundle files/AppDelegate.swift",
+  "offset": 1322,
+  "remove": 7,
+  "text": "y",
+ }
+]

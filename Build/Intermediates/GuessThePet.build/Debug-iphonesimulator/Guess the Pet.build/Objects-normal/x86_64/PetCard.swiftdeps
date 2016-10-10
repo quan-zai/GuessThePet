@@ -1,0 +1,38 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PetCard"
+provides-nominal:
+- "V13Guess_the_Pet7PetCard"
+provides-member:
+- ["V13Guess_the_Pet7PetCard", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "UIImage"
+- "PetCard"
+- "String"
+depends-member:
+- ["V13Guess_the_Pet7PetCard", "String"]
+- ["V13Guess_the_Pet7PetCard", "UIImage"]
+- ["V13Guess_the_Pet7PetCard", "deinit"]
+- ["V13Guess_the_Pet7PetCard", "description"]
+- ["V13Guess_the_Pet7PetCard", "image"]
+- ["V13Guess_the_Pet7PetCard", "init"]
+- ["V13Guess_the_Pet7PetCard", "name"]
+- ["SS", "deinit"]
+- ["CSo7UIImage", "deinit"]
+depends-nominal:
+- "V13Guess_the_Pet7PetCard"
+- "SS"
+- "CSo7UIImage"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "7d150b9ce41c50691d53cd035c9b3765"

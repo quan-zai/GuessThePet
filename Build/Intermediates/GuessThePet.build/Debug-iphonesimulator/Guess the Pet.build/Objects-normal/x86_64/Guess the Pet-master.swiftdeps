@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7856a34610d185bc4f314005db5cc384"
+build_time: [529402383, 486908000]
+inputs:
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Animation controllers/FlipDismissAnimationController.swift": [529399271, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Helpers/AnimationHelper.swift": [529380469, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift": [529380469, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/RevealViewController.swift": [529380469, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Animation controllers/FlipPresentAnimationController.swift": [529399271, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Model/PetCard.swift": [489605647, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Bundle files/AppDelegate.swift": [529380469, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Helpers/ViewControllerProvider.swift": [529380469, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift": [529402148, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Animation controllers/SwipeInteractionController.swift": [529402383, 0]
+  "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/PageViewController.swift": [529380469, 0]

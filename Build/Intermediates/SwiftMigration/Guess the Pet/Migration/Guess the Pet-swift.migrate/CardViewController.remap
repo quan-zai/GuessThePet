@@ -1,0 +1,48 @@
+[
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1215,
+  "text": "file",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1262,
+  "text": "file",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1703,
+  "remove": 1,
+  "text": "(f",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1706,
+  "remove": 6,
+  "text": " ",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1748,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1850,
+  "remove": 15,
+  "text": "n",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 1993,
+  "remove": 1,
+  "text": "(w",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/View controllers/CardViewController.swift",
+  "offset": 2007,
+  "remove": 1,
+  "text": ": ",
+ }
+]

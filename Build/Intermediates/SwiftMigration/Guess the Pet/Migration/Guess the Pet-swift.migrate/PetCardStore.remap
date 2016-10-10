@@ -1,0 +1,31 @@
+[
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift",
+  "offset": 1212,
+  "text": "file",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift",
+  "offset": 1282,
+  "remove": 3,
+  "text": " ",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift",
+  "offset": 1295,
+  "remove": 9,
+  "text": "n",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift",
+  "offset": 1309,
+  "remove": 1,
+  "text": "(f",
+ },
+ {
+  "file": "/Users/atyun-monitor/Downloads/GuessThePet-Starter/GuessThePet/Data/PetCardStore.swift",
+  "offset": 1320,
+  "remove": 1,
+  "text": ": ",
+ }
+]
